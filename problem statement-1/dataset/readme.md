@@ -1,5 +1,7 @@
 ## Link to the dataset - 
-## https://drive.google.com/drive/folders/1j-59lft2HvxT3X6yn-pGpVAIYArr3SY-
+## https://drive.google.com/drive/folders/1vEHqjycX83o23xxkbQ3nSKPm6kdA1Wi4?usp=sharing
+
+the following dataset contains the frames that i have extracted for the training of YOLO models from the orihinal sample video that was being provided.
 
 ## source - karnataka state police
 
