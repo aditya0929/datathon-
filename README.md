@@ -11,7 +11,7 @@ Team Leader Name: Aditya Narayan Jha
 
 ## drive folder with all resources - https://drive.google.com/drive/folders/1Bq0R4jyd0E8tjBAPEYKBR3gAbP2ndUX9?usp=sharing
 
-## demo video link - 
+## demo video link -  https://youtu.be/P9vbIreFvDM
 ## demo inference sample web app for problem statement - 3 - https://detect.roboflow.com/?model=auto-generated-dataset-7-fbays&version=1&api_key=fZJrRNq8wBaLvAXPRPkk
 
 ## IDEA DESCRIPTION - 
