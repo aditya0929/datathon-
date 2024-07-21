@@ -1,7 +1,6 @@
 # KSP datathon-
 this repo includes our approach to the problem statement of traffic optimisation. 
 
-Team Name: Crosshair
 
 Problem Statement: Traffic Flow Optimization and Congestion Management
 
@@ -25,15 +24,6 @@ Team Leader Name: Aditya Narayan Jha
    - Comparison with Real-time Data from APIs: The recorded data(preferably in a CSV format) from drone footage is compared with real-time traffic data obtained through APIs such as TOMTOM. This comparison is done in order to evaluate the accuracy of the drone analysis footage and provides insights into discrepancies between real time conditions and GPS information 
 
  -  Additionally: we can store the csv files locally or using a serverless database for future reference that might be required for the referencing the history of   traffic accuracy that was present in certain area.
-
-### PROBLEM -2- Signal Optimization at Junctions:
-
- - Object Detection-based Monitoring of Traffic Flow: At junctions, object detection technology is deployed to monitor the flow of vehicles. This involves analyzing video footage to track vehicle movements travelling from one lane to the another based upon the queue of vehicles that is standing and number of vehicles that are moving in the flow.
- 
-  
-  - Determination of Optimal Signal Timings: Using the data collected from traffic monitoring, algorithms are employed to determine the most effective signal timings. Factors such as traffic volume, lane occupancy, and historical data are taken into account to optimize signal cycles.
-
-  - Fine-tuning Signal Timings based on Lane Clearance Time: The optimization process includes fine-tuning signal timings based on the average clearance time for each lane. By adjusting signal durations to match lane clearance rates, traffic flow can be further optimized, reducing congestion and improving overall efficiency.
 
 ### PROBLEM -3- Bottleneck Detection and Alert System:
 
